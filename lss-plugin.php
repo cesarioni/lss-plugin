@@ -7,7 +7,7 @@
 /*
 Plugin Name:lss Plugin
 Plugin URI: http://lss.com
-Description: plugin to setup a multipurpose LMS
+Description: plugin to setup a multipurpose LMS in Wordpress
 Version: 1.0.0
 Author: Cesar Macias
 Author URI: http://cesarmacias.com
