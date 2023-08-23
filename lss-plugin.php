@@ -14,7 +14,7 @@ Author URI: http://cesarmacias.com
 License: GPL v2 or later
 Text Domain: lss-plugin
 */
-define('ABSPATH') or die('Hey, you can\t access this file, you silly human');
+defined('ABSPATH') or die('Hey, you can\t access this file, you silly human');
 
 class LssPlugin
 {
